@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Jean-Francois Hetu
 
 ## makeCacheMatrix creates an object to store a matrix() and potentially cache the inverse of the 
 ## matrix through the setInverse function.  Functionalities are implemented using a list.
